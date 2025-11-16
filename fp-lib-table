@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LED_SMD_prj")(type "KiCad")(uri "${KIPRJMOD}/LED_SMD.pretty")(options "")(descr ""))
+)
